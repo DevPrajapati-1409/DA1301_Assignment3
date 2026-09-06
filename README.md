@@ -12,3 +12,7 @@
 ### One can work remotely from their computer on a project stored in a server possible in a different country.
 
 ### The git command branch is really useful as it helps to try out new stuff without disturbing the original code.
+
+## What I Learned:
+- I am learning how Git and GitHub work together.
+  
